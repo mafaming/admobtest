@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-admobtest/Pods-admobtest-resources.sh
+${PODS_ROOT}/GoogleMobileAdsMediationTestSuite/Resources/GoogleMobileAdsMediationTestSuite.bundle
+${PODS_ROOT}/MaterialComponents/components/Dialogs/src/MaterialDialogs.bundle
+${PODS_ROOT}/MaterialComponents/components/Tabs/src/MaterialTabs.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/MaterialComponents/MaterialIcons_ic_check_circle.bundle
